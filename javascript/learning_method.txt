@@ -1,9 +1,0 @@
-1. javascript placement
-    a.inline
-    b.internal
-    c.external
-
-2. javascript output 3 system.
-3.Data type
-4.variable
-5.
