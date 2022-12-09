@@ -1,0 +1,23 @@
+form{
+    width: 300px;
+    padding: 5px;
+    text-align: center;
+    background-color: silver;
+}
+div{
+    width: 100%;
+    padding: 10px;
+    /* text-align: right; */
+    overflow: hidden;
+    margin-right: 15px;
+    display: block;
+}
+label{
+    text-align: left;
+}
+
+#main{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
